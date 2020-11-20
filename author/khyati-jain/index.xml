@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Khyati</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>Khyati Jain | Khyati</title>
+    <link>/author/khyati-jain/</link>
+      <atom:link href="/author/khyati-jain/index.xml" rel="self" type="application/rss+xml" />
+    <description>Khyati Jain</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>/images/icon_hu0f14deddaba22178f9358e42be9923cd_29147_512x512_fill_lanczos_center_2.png</url>
-      <title>Posts</title>
-      <link>/post/</link>
+      <title>Khyati Jain</title>
+      <link>/author/khyati-jain/</link>
     </image>
     
   </channel>
