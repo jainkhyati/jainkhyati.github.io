@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reading_list | Khyati</title>
+    <link>/tag/reading_list/</link>
+      <atom:link href="/tag/reading_list/index.xml" rel="self" type="application/rss+xml" />
+    <description>reading_list</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Nov 2020 18:21:12 +0530</lastBuildDate>
+    <image>
+      <url>/images/icon_hu09c2e1648cf7d6c922a8d4ebe14e3e3b_23252_512x512_fill_lanczos_center_2.png</url>
+      <title>reading_list</title>
+      <link>/tag/reading_list/</link>
+    </image>
+    
+    <item>
+      <title>My Reading List</title>
+      <link>/post/reading-list/</link>
+      <pubDate>Fri, 27 Nov 2020 18:21:12 +0530</pubDate>
+      <guid>/post/reading-list/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;The dreams from my father by Barack Obama&lt;/li&gt;
+&lt;li&gt;Da Vinci Code&lt;/li&gt;
+&lt;li&gt;Rozabel Line&lt;/li&gt;
+&lt;li&gt;Becoming&lt;/li&gt;
+&lt;li&gt;Influence&lt;/li&gt;
+&lt;li&gt;No Exit&lt;/li&gt;
+&lt;li&gt;Economics of Doughnut&lt;/li&gt;
+&lt;li&gt;Harry Potter&lt;/li&gt;
+&lt;li&gt;Gifts of Imperfection&lt;/li&gt;
+&lt;li&gt;7 habits of Highly Effective People&lt;/li&gt;
+&lt;li&gt;Outliers Malcolm Gladwell&lt;/li&gt;
+&lt;li&gt;Let me stay&lt;/li&gt;
+&lt;li&gt;Life is Perfect&lt;/li&gt;
+&lt;li&gt;2 guys , 3 girls and a mad professor&lt;/li&gt;
+&lt;li&gt;Difficult Daughters&lt;/li&gt;
+&lt;li&gt;Digital Fortress, Dan brown&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

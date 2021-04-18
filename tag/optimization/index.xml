@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>optimization | Khyati</title>
+    <link>/tag/optimization/</link>
+      <atom:link href="/tag/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>optimization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Apr 2021 19:18:17 +0530</lastBuildDate>
+    <image>
+      <url>/images/icon_hu09c2e1648cf7d6c922a8d4ebe14e3e3b_23252_512x512_fill_lanczos_center_2.png</url>
+      <title>optimization</title>
+      <link>/tag/optimization/</link>
+    </image>
+    
+    <item>
+      <title>Combinatorial Optimization using Analog Computing</title>
+      <link>/projects/cim/</link>
+      <pubDate>Wed, 14 Apr 2021 19:18:17 +0530</pubDate>
+      <guid>/projects/cim/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Studying the noise robustness of analog optimization methods for NP-Hard problems.&lt;/li&gt;
+&lt;li&gt;More details to be updated soon!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
